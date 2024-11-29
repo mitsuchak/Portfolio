@@ -29,7 +29,7 @@ Here’s what makes this portfolio tick:
 ## 🌟 How to View It
 
 You can check out the live version here:  
-[**Live Demo**](#) *(Add your live demo link!)*
+[(https://khushboodaryani-portfolio.vercel.app)](#) *(Add your live demo link!)*
 
 ---
 
